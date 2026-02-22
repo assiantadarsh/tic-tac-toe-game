@@ -14,7 +14,7 @@ https://github.com/assiantadarsh/tic-tac-toe-game
 - JavaScript
 
 ## 🎮 How to Play
-- Player X starts the game
+- Player O starts the game
 - Click on any box to make a move
 - First player to get 3 in a row wins
 - Click reset to play again
